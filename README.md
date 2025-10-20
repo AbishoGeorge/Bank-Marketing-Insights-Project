@@ -9,7 +9,7 @@ I have included all **SQL queries used for analysis** in this repository, along 
 ## Step 1: Data Collection
 - The dataset contains customer demographics, financial information, and campaign details.
 - ## Dataset
-You can download the dataset used in this project here: [Bank Marketing Dataset](https://github.com/yourusername/bank-marketing-dataset.csv) 
+You can download the dataset used in this project here: [Bank Marketing Dataset]([https://github.com/yourusername/bank-marketing-dataset.csv](https://github.com/AbishoGeorge/Bank-Marketing-Insights-Project/blob/main/bank-Marketing-Dataset-csv.csv)) 
 - Key columns include:  
   - `age`, `job`, `marital`, `education`  
   - `default_status`, `housing`, `loan`  

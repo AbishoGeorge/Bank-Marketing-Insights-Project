@@ -2,7 +2,7 @@
 
 This is an **end-to-end data analysis project** using **Excel, SQL, and Power BI**. The project focuses on analyzing the **Bank Marketing dataset** to understand which factors influence a client’s decision to subscribe to a term deposit.  
 
-I have included all **SQL queries used for analysis** in this repository, along with the cleaned dataset and the final Power BI dashboard.
+I have included all **[SQL queries](https://github.com/AbishoGeorge/Bank-Marketing-Insights-Project/blob/main/bank_marketing_queries.sql) used for analysis** in this repository, along with the cleaned dataset and the final [Power BI dashboard](https://github.com/AbishoGeorge/Bank-Marketing-Insights-Project/blob/main/PowerBI%20Dashboard.png).
 
 ---
 

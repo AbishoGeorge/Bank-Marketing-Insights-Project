@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Analysis and Customer Subscription Prediction
+# End-to-End Bank Marketing Campaign Analysis
 
 This is an **end-to-end data analysis project** using **Excel, SQL, and Power BI**. The project focuses on analyzing the **Bank Marketing dataset** to understand which factors influence a client’s decision to subscribe to a term deposit.  
 
